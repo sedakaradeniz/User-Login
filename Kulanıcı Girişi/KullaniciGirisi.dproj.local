@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.10.05 15:55:43.254,=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.10.05 15:57:58.931,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\KullaniciGirisi.dproj=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Project12.dproj</Transaction>
+    <Transaction>2021.10.05 15:58:24.869,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\UntKullaniciGirisi1.pas=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.10.05 15:58:24.869,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\UntKullaniciGirisi1.dfm=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.10.05 18:28:16.349,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Kulanıcı Girişi\UntKullaniciGirisi1.dfm=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\UntKullaniciGirisi1.dfm</Transaction>
+    <Transaction>2021.10.05 18:28:16.349,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Kulanıcı Girişi\UntKullaniciGirisi1.pas=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\UntKullaniciGirisi1.pas</Transaction>
+    <Transaction>2021.10.05 18:28:19.000,C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Kulanıcı Girişi\KullaniciGirisi.dproj=C:\Users\Yunus\OneDrive\Documents\Embarcadero\Studio\Projects\KullaniciGirisi.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
